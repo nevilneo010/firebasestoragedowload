@@ -11,7 +11,7 @@ firebase = "*"
 python-jwt = "*"
 gcloud = "*"
 sseclient = "*"
-pycryptodome = "==3.4.3"
+pycryptodome = "==3.6.6"
 requests-toolbelt = "*"
 
 [requires]
